@@ -1,0 +1,6 @@
+ctrl+win+D创建新桌面       
+ctrl+win+←（→）左（右）切换    
+ctrl+win+F4关闭
+
+
+
